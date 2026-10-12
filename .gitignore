@@ -1,0 +1,4 @@
+# Java compilados y documentación generada
+*.class
+**/out/
+**/docs/
